@@ -9,6 +9,7 @@ Provides a simple and intuitive user interface for entering input features.
 Displays the prediction result along with the probability score.
 
 #Installation
+
 Clone the repository: git clone https://github.com/yourusername/cardiovascular-disease-detection-app.git
 Navigate to the project directory: cd cardiovascular-disease-detection-app
 Install the required dependencies: pip install streamlit
