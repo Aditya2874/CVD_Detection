@@ -10,7 +10,7 @@ This is a web-based application for predicting the likelihood of cardiovascular 
 
 # Installation
 
-- Clone the repository: git clone https://github.com/yourusername/cardiovascular-disease-detection-app.git
+- Clone the repository: git clone https://github.com/Aditya2874/CVD_Detection.git
 - Navigate to the project directory: cd cardiovascular-disease-detection-app
 - Install the required dependencies: pip install streamlit
 - Start the Streamlit server:
